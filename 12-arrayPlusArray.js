@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// 11/366
+// 12/366
 // https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 
 function arrayPlusArray(arr1, arr2) {
